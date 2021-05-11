@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.donate-main{
+    position: relative;
+    border: 1px solid black;
+    width: 350px;
+    height: 450px;
+    margin: 100px auto;
+}
+#login{
+    color: black;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    width: 250px;
+    height: 50px;
+}
+#pswrd{
+    color: black;
+    position: absolute;
+    top: 250px;
+    left: 50px;
+    width: 250px;
+    height: 50px;
+}
